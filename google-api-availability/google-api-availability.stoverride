@@ -5,7 +5,7 @@ tiles:
   - name: Google-API-Test
     interval: 1800
     title: "Google API 可用性"
-    content: "未知"
+    content: "未知\n点按左侧刷新按钮开始检测"
     icon: "location.magnifyingglass"
     backgroundColor: "#4285F4"
 
