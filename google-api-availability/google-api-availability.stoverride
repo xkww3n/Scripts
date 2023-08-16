@@ -7,7 +7,7 @@ tiles:
     title: "Google API 可用性"
     content: "未知"
     icon: "location.magnifyingglass"
-    backgroundColor: "#F4B400"
+    backgroundColor: "#4285F4"
 
 script-providers:
   Google-API-Test:
