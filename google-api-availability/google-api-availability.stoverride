@@ -1,0 +1,15 @@
+name: Google API 可用性检测
+desc: 检测节点 IP 是否已被 Google 视为位于服务不可用的地区
+
+tiles:
+  - name: Google-API-Test
+    interval: 1800
+    title: "Google API 可用性"
+    content: "未知"
+    icon: "location.slash"
+    backgroundColor: "#F4B400"
+
+script-providers:
+  Google-API-Test:
+    url: https://raw.githubusercontent.com/xkww3n/Scripts/main/google-api-availability/google-api-availability.js
+    interval: 86400
