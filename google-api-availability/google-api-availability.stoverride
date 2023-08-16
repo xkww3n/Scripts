@@ -6,7 +6,7 @@ tiles:
     interval: 1800
     title: "Google API 可用性"
     content: "未知"
-    icon: "location.slash"
+    icon: "location.magnifyingglass"
     backgroundColor: "#F4B400"
 
 script-providers:
