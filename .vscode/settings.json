@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.stoverride": "yaml"
-    },
-    "material-icon-theme.files.associations": {
-        "**.stoverride": "yaml"
-    },
-}
